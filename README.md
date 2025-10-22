@@ -1,1 +1,0 @@
-# CodeAlpha_Emotion-Recognition-from-Speech
