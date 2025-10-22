@@ -1,0 +1,2 @@
+- Download [RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio) dataset.
+- Create a virtual environment and install the requirements.
